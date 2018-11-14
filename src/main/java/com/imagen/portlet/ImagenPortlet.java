@@ -10,6 +10,7 @@ import org.osgi.service.component.annotations.Component;
             "javax.portlet.display-name=Modulo OSGI. Imagen-WEB Portlet",
 	    "javax.portlet.init-param.template-path=/", 
 	    "com.liferay.portlet.footer-portlet-javascript=https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js",
+	    "com.liferay.portlet.footer-portlet-javascript=/js/angular-portlet.js", 
 	    "com.liferay.portlet.footer-portlet-javascript=/js/imagen-controller.js",
 	    "com.liferay.portlet.header-portlet-css=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css",
 	    "com.liferay.portlet.footer-portlet-javascript=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",

@@ -1,8 +1,9 @@
 <%@ include file="/init.jsp"%>
 
-<div ng-app='ImagenApp' ng-controller='ImagenController'>
+<div ng-controller='ImagenController'>
 	<h1>Imágenes</h1>
 	<hr></hr>
+	{{54+56}}
 	    <div class="row">
         <div class="col-sm-3">
             <a href="#" class="nav-tabs-dropdown btn btn-block btn-primary">Imágenes</a>
